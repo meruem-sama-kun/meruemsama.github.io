@@ -1,0 +1,62 @@
+body{
+    line-height: 1.5}
+.ma-classe1{
+    font-family: 'Vibes', cursive;
+    text-align: center;
+   border: 2px solid #009860;
+   border-bottom: 2px solid black;
+}
+.ma-classe1:hover {
+    text-decoration-line: overline;
+}
+.ma-classe2{
+    font-family: 'Indie Flower', cursive;
+    text-align: right
+}
+.ma-classe3{
+    font-family: 'Lobster', cursive;
+    font-weight: bold;
+    font-style: italic;
+}
+.ma-classe4{
+    font-family: 'Great Vibes', cursive;
+    font-size: 70px;
+}
+ul {
+    list-style-type: none
+}
+
+ol {
+    list-style-type: upper-roman
+}
+img {
+    border-radius: 20px
+}
+#paragpraphe-final{
+    background-image: url("https://www.wallpapermaiden.com/wallpaper/16329/download/600x800/uchiha-madara-uchiha-obito-naruto-staff.jpg");
+    width: 40%;
+    background-repeat: no-repeat;
+    background-position: center center;
+    color: yellow;
+}
+p {
+    width: 40%;
+    margin-bottom: 40px;
+}
+h1 {
+    margin: 50px;
+}
+body {
+    width: 800px;
+    margin: 0 auto;
+}
+body {
+    line-height: 1.5;
+    border: 2px solid black;
+}
+#final {
+    background-color: teal;
+    padding: 20px 20px;
+    margin: 20px 20px;
+    height: 30px;
+}
